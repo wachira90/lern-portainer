@@ -1,5 +1,7 @@
 # Portainer CE Kubernetes
 
+https://portainer.github.io/k8s/
+
 ## install command
 
 ```
